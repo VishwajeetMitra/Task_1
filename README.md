@@ -26,3 +26,5 @@ The aim is to uncover insights of the trends,distributions,correlations and outl
 - **Pandas:** Library mainly used for data manipulation and analysis.<br/>
 - **Matplotlib:** Utilized for creating static,animated and intractive visualizations.<br/>
 - **Seaborn:** Utilized for making statistical graphs that are informative and attractive.<br/>
+
+**Link to the project**[Task_1](https://github.com/VishwajeetMitra/Task_1/blob/main/Task_1.ipynb)
